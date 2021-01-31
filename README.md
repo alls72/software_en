@@ -2,7 +2,7 @@
 Программная инженерия
 
 БД: mongoDB Atlas
-Фронт: Vue + Express
+Фронт: Vue + ExpressJS
 
 ## Структура проекта и связка бэк-фронт сделаны по туториалу: 
 ### https://bezkoder.com/vue-node-express-mongodb-mevn-crud/
